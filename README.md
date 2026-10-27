@@ -1,4 +1,4 @@
-# Hola, soy Juan Cruz 👋
+# Hola, soy Juan Cruz
 
 Desarrollador Full Stack Jr. de Argentina. Técnico Superior en Desarrollo de Software (ISTEA, 2025). Busco mi primera oportunidad como desarrollador, en modalidad remota.
 
